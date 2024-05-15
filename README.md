@@ -1,7 +1,7 @@
 # promo-H-DA-modulo2-evaluacion-final-SilviaMarrero 
 
 Ejercicio Final Módulo 2
-- Antes de empezar, hay que crear un nuevo repositorio en GitHub.
+
 - Esta evaluación consta de una serie de preguntas que evalúan tu comprensión y habilidades en
 relación con SQL.
 - Puedes usar recursos externos, incluyendo internet y materiales de referencia o tus propias
